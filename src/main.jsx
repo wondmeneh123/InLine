@@ -10,8 +10,7 @@ import RestaurantLayout from "./Layout/RestaurantLayout";
 import RestaurantDashboard from "./Screens/Business/Restaurant/Dashboard";
 import Foods from "./Screens/Business/Restaurant/Foods";
 import Menu from "./Screens/User/Restaurant/Menu";
-import Booking from "./Screens/User/Barber/Booking";
-import Cheif from "./Screens/Business/Restaurant/Cheif/Cheif";
+
 import CheifTable from "./Screens/Cheifs/CheifTable";
 
 createRoot(document.getElementById("root")).render(
