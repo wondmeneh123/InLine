@@ -4,7 +4,7 @@ import React from "react";
 const Business = () => {
   return (
     <div>
-      <h1>Business</h1>
+      <h1>Resturants</h1>
       <DataTableDemo />
     </div>
   );
