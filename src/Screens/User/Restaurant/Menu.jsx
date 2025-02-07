@@ -115,11 +115,6 @@ const Menu = () => {
                     className="bg-white text-gray-900 shadow-md rounded-lg"
                   >
                     <CardHeader>
-                      <img
-                        src={item.url}
-                        alt={item.name}
-                        className="w-full h-32 object-cover rounded-t-lg"
-                      />
                       <CardTitle>{item.name}</CardTitle>
                     </CardHeader>
 
